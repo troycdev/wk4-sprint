@@ -1,0 +1,6 @@
+[submodule "lbg-car-spring-app-starter"]
+	path = lbg-car-spring-app-starter
+	url = ./lbg-car-spring-app-starter
+[submodule "lbg-car-react-starter"]
+	path = lbg-car-react-starter
+	url = ./lbg-car-react-starter
